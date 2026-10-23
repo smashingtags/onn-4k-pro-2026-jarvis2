@@ -1,1 +1,107 @@
-IyBvbm4uIDRLIFBybyAoMjAyNiwgamFydmlzMikg4oCUIHJvb3QgcmVzZWFyY2gKClN0YXR1czogKipubyByb290IGFjaGlldmVkLioqIFRoaXMgaXMgYSBydW5uaW5nIGxvZyBvZiB3aGF0J3MgYmVlbiB0cmllZCwgd2hhdAp3b3JrZWQsIGFuZCB3aGF0IGRpZG4ndCwgb24gdGhlIG5ldyAyMDI2IG9ubi4gNEsgUHJvIHN0cmVhbWluZyBib3ggLSBjb2RlbmFtZQoqKmphcnZpczIqKiwgZGlzdGluY3QgZnJvbSB0aGUgZWFybGllciAyMDI0ICJqYXJ2aXMvU05BIiBoYXJkd2FyZSB0aGF0CltvcGVuZW5zZW1ibGUvb25uLTRrLXByby11bmxvY2stcm9vdF0oaHR0cHM6Ly9naXRodWIuY29tL29wZW5lbnNlbWJsZS9vbm4tNGstcHJvLXVubG9jay1yb290KQphbHJlYWR5IHJvb3RzLiBUaGF0IHByb2plY3QncyB0b29saW5nIGV4cGxpY2l0bHkgZXhjbHVkZXMgdGhpcyBkZXZpY2UgYW5kCm5vdGhpbmcgaW4gaXQgdHJhbnNmZXJzIGRpcmVjdGx5IC0gZGlmZmVyZW50IGZpcm13YXJlLCBhbG1vc3QgY2VydGFpbmx5IGEKZGlmZmVyZW50IFNvQyBnZW5lcmF0aW9uLCBhbmQgKGFzIGZhciBhcyB3ZSBjYW4gdGVsbCkgbm8gcHVibGljIGZpcm13YXJlIGR1bXAKZXhpc3RzIGZvciBqYXJ2aXMyIGFueXdoZXJlIHlldC4KCklmIHlvdSdyZSByZWFkaW5nIHRoaXMgYmVjYXVzZSB5b3UgaGF2ZSB0aGUgc2FtZSBib3g6IG9wZW4gYW4gaXNzdWUsIG9yIHNlZQppZiBbdGhlIHVwc3RyZWFtIGlzc3VlIHdlIGZpbGVkXShodHRwczovL2dpdGh1Yi5jb20vb3BlbmVuc2VtYmxlL29ubi00ay1wcm8tdW5sb2NrLXJvb3QvaXNzdWVzLzEpCmhhcyBtb3ZlZC4gV2UnZCByYXRoZXIgY29uc29saWRhdGUgdGhhbiBmb3JrIGVmZm9ydC4KCiMjIERldmljZSBpZGVudGlmaWNhdGlvbgoKYGBgClJldGFpbCBuYW1lOiAgIG9ubi4gNEsgUHJvIFN0cmVhbWluZyBEZXZpY2UgKDIwMjYpCkNvZGVuYW1lOiAgICAgIGphcnZpczIgKHJvLnByb2R1Y3QuZGV2aWNlIC8gLm5hbWUgLyAuYm9hcmQgYWxsIGFncmVlKQpGaW5nZXJwcmludDogICBvbm4vamFydmlzMi9qYXJ2aXMyOjE0L1VSTzMuMjYwMjAzLjAzNS5BMS8xNTY0MDI1Mjp1c2VyL3JlbGVhc2Uta2V5cwpCb2FyZCBwbGF0Zm9ybTogczdkICAobm90IGNvbmZpcm1lZCBhZ2FpbnN0IGEga25vd24gcHVibGljIEFtbG9naWMgcGFydCBudW1iZXIpClNlY3VyaXR5IHBhdGNoOiAyMDI2LTA2LTAxCkFjdGl2ZSBzbG90OiAgIF9hCkFCSTogICAgICAgICAgIGFybWVhYmktdjdhCnJvLmRlYnVnZ2FibGU6IDAgIChwcm9kdWN0aW9uIGJ1aWxkOyBgYWRiIHJvb3RgIHJlZnVzZWQpCnJvLmJvb3QuZmxhc2gubG9ja2VkOiAgICAgICAgMQpyby5ib290LnZibWV0YS5kZXZpY2Vfc3RhdGU6IGxvY2tlZApyby5ib290LnZlcmlmaWVkYm9vdHN0YXRlOiAgIGdyZWVuCnN5cy5vZW1fdW5sb2NrX2FsbG93ZWQ6ICAgICAgMSAgLSBTZXR0aW5ncyA+IERldmVsb3BlciBvcHRpb25zID4gT0VNIHVubG9ja2luZwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG93cyBFTkFCTEVELCBub3QgZ3JleWVkIG91dCwgb24gdGhpcyB1bml0CmBgYAoKQWxzbyBzZWVuIGluIHRoZSB3aWxkIGZvciB0aGlzIHByb2R1Y3QgbGluZTogbW9kZWwgbnVtYmVycyBEUzk2MjAgLyBKUzYyMEs0LgoKIyMgUGFydGl0aW9uIGxheW91dCAoQS9CLCBkeW5hbWljIHBhcnRpdGlvbnMpCgpSZWFkIHZpYSBgYWRiIHNoZWxsIGxzIC1sYSAvZGV2L2Jsb2NrL2J5LW5hbWUvYCAtIG5vIHJvb3QgbmVlZGVkIHRvIGxpc3QsIGJ1dApldmVyeSBibG9jayBkZXZpY2UgaXMgYGJydy0tLS0tLS1gIChyb290LW9ubHkgdG8gcmVhZCk6CgpgYGAKYm9vdF9hL2IsIGluaXRfYm9vdF9hL2IsIGR0Ym9fYS9iLCB2ZW5kb3JfYm9vdF9hL2IsCnZibWV0YV9hL2IsIHZibWV0YV9zeXN0ZW1fYS9iLCBib290bG9hZGVyX2EvYiwgdGVlLCBzdXBlciwgdXNlcmRhdGEsIC4uLgpgYGAKCk5vdGFibHkgdGhpcyBkZXZpY2UgaGFzIHJlYWwsIG5vbi1lbXB0eS1sb29raW5nIGBpbml0X2Jvb3RfYWAvYGluaXRfYm9vdF9iYApwYXJ0aXRpb25zIHNlcGFyYXRlIGZyb20gYGJvb3RfYWAvYGJvb3RfYmAgLSBzdGFuZGFyZCBwb3N0LUFuZHJvaWQtMTMgR0tJCnJhbWRpc2sgc3BsaXQuIFRoZSBqYXJ2aXMvU05BIGhhcmR3YXJlIG9wZW5lbnNlbWJsZSBkb2N1bWVudGVkIGZvdW5kIGl0cwpgaW5pdF9ib290YCBwYXJ0aXRpb25zIGJsYW5rIGFuZCByb290cyBgYm9vdF9iYCBpbnN0ZWFkLCB3aGljaCBpcyBvbmUKY29uY3JldGUgc2lnbiBqYXJ2aXMyIGlzIGEgbmV3ZXIvZGlmZmVyZW50IGtlcm5lbCBwYWNrYWdpbmcgdGhhbiBqYXJ2aXMvU05BLApub3QganVzdCBhIHJlbmFtZWQgcmVzcGluLgoKIyMgVmVuZG9yIGludGVyZmFjZQoKYGNvbS5kcm9pZGxvZ2ljYCBhbmQgYGNvbS5hbmRyb2lkLm5ldHdvcmtzdGFjay50ZXRoZXJpbmcuZHJvaWRsb2dpY2AgYXJlCmJvdGggcHJlc2VudCAtIHRoZSBzYW1lIEFtbG9naWMgdmVuZG9yIHBhY2thZ2UgZmFtaWx5IG9wZW5lbnNlbWJsZSdzCkhPV19JVF9XT1JLUy5tZCBkZXNjcmliZXMgdGFsa2luZyB0byBmb3IgdGhlIEFWQiB1bmxvY2sgb24gamFydmlzL1NOQS4gVGhpcwppcyBjaXJjdW1zdGFudGlhbCwgbm90IHByb29mOiBpdCB0ZWxscyB1cyB0aGUgc2FtZSAqY2xhc3MqIG9mIG1lY2hhbmlzbQpsaWtlbHkgZXhpc3RzIGhlcmUsIG5vdCB0aGF0IGFueSBvZiB0aGVpciBleGFjdCBhZGRyZXNzZXMsIFRFRSB0cnVzdGVkLWFwcApVVUlELCBvciBwYXlsb2FkIGJ5dGVzIGFwcGx5LiBUaG9zZSB3ZXJlIGhhbmQtY2FsaWJyYXRlZCBhZ2FpbnN0IGEgamFydmlzL1NOQQpmaXJtd2FyZSBkdW1wIHRoZXkgaGFkIGFuZCB3ZSBkb24ndC4KCiMjIEF0dGVtcHRzIHNvIGZhcgoKIyMjIDIwMjYtMTAtMjMgLSBPVEEgY2FwdHVyZSBhdHRlbXB0OiBkZWFkIGVuZAoKR29hbDogdHJpZ2dlciBhIHN5c3RlbSB1cGRhdGUgY2hlY2ssIGNhdGNoIHRoZSByZXF1ZXN0IHRvIHNlZSB3aGF0IFVSTC9ob3N0CnRoZSBkZXZpY2UgdGFsa3MgdG8gZm9yIGl0cyBPVEEgcGF5bG9hZCwgYW5kIChpZiB0aGUgVVJMIGlzIGEgcHVibGljLAp1bmF1dGhlbnRpY2F0ZWQgYmxvYiBsaWtlIEdvb2dsZSdzIHN0YW5kYXJkIE9UQSBkaXN0cmlidXRpb24gcGF0dGVybikgZmV0Y2gKaXQgZGlyZWN0bHkgd2l0aCBjdXJsIGZyb20gYSBjb21wdXRlciAtIG5vIGRldmljZSBtb2RpZmljYXRpb24sIG5vIHJpc2suCgpPcGVuZWQgYGFuZHJvaWQuc2V0dGluZ3MuU1lTVEVNX1VQREFURV9TRVRUSU5HU2AgdmlhIGFkYiwgY29uZmlybWVkIHZpYQpgYWRiIHNoZWxsIHNjcmVlbmNhcGA6Cgo+ICoqIllvdXIgc3lzdGVtIGlzIHVwIHRvIGRhdGUuIiBMYXN0IHN1Y2Nlc3NmdWwgY2hlY2sgZm9yIHVwZGF0ZSBhdCAyOjQzIEFNLioqCgpObyBwZW5kaW5nIHVwZGF0ZSBtZWFucyBub3RoaW5nIHRvIGNhcHR1cmUgYSBVUkwgZm9yIHJpZ2h0IG5vdy4gVGhpcyBhbHNvCm1lYW5zIHRoZSBjdXJyZW50bHktKmluc3RhbGxlZCogZmlybXdhcmUgKHdoYXQgd2UgYWN0dWFsbHkgd2FudCkgd2FzIG5ldmVyCmdvaW5nIHRvIHN1cmZhY2UgdGhpcyB3YXkgcmVnYXJkbGVzcyAtIGEgImNoZWNrIGZvciB1cGRhdGUiIG9ubHkgZXZlciByZXZlYWxzCnRoZSAqbmV4dCogcmVsZWFzZSwgbm90IHRoZSBvbmUgYWxyZWFkeSBvbiB0aGUgYm94LiBUaGUgYm94IGJlaW5nIHRoaXMKY3VycmVudCBpcyBhbHNvIGEgcGxhdXNpYmxlIHJlYXNvbiBub2JvZHkgaGFzIGEgamFydmlzMiBkdW1wIHlldDogdGhlcmUgbWF5Cm5vdCBoYXZlIGJlZW4gYSBzZWNvbmQgT1RBIHB1c2ggc2luY2UgbGF1bmNoIGZvciBhbnlvbmUgdG8gaGF2ZSBjYXVnaHQuCgoqKkNvbmNsdXNpb246KiogdGhpcyBwYXRoIGlzIGJsb2NrZWQgdW50aWwgV2FsbWFydC9PTk4gc2hpcHMgYSBqYXJ2aXMyIE9UQQp1cGRhdGUuIFdoZW4gb25lIGxhbmRzLCByZS1hdHRlbXB0IHRoaXMgLSBpZGVhbGx5IHdpdGggYSBNSVRNIHNldHVwICh1c2VyIENBCmNlcnQgaW5zdGFsbGVkIHZpYSBTZXR0aW5ncywgbm8gcm9vdCBuZWVkZWQsIHBsdXMgYSBwcm94eSBvbiBhIExBTiBjb21wdXRlcikKc28gdGhlIGFjdHVhbCBwYXlsb2FkLmJpbiBjYW4gYmUgY2FwdHVyZWQgZXZlbiBvdmVyIEhUVFBTLCBub3QganVzdCB0aGUKZGVzdGluYXRpb24gaG9zdC4KCiMjIFdoYXQgaGFzbid0IGJlZW4gdHJpZWQgeWV0CgotIFBoeXNpY2FsIFVTQi9mYXN0Ym9vdCB0ZXN0LiBUb2dnbGUgc2hvd3MgT0VNLXVubG9jayBlbmFibGVkLCBidXQgd2hldGhlcgogIGBmYXN0Ym9vdCBmbGFzaGluZyB1bmxvY2tgIGlzIGV2ZW4gaW1wbGVtZW50ZWQgb24gdGhpcyBib290bG9hZGVyICh2cy4KICBBbWxvZ2ljJ3Mgbm9uLWZhc3Rib290ICJidXJuIG1vZGUiL3N0b3JlYm9vdCBVU0ItZHJpdmUgYXBwcm9hY2gKICBvcGVuZW5zZW1ibGUgYWN0dWFsbHkgdXNlZCkgaXMgdW52ZXJpZmllZC4gVW50ZXN0ZWQgYmVjYXVzZSBhbiB1bmxvY2sKICBhdHRlbXB0IGlzIHBvdGVudGlhbGx5IGRhdGEtZGVzdHJ1Y3RpdmUgYW5kIHdlIHdhbnRlZCB0aGUgZmlybXdhcmUKICBzaXR1YXRpb24gdW5kZXJzdG9vZCBmaXJzdC4KLSBSZWFkaW5nIGBlbnZgL2BtaXNjYCBwYXJ0aXRpb25zIGZvciBVLUJvb3QgZW52aXJvbm1lbnQgY2x1ZXMgLSBibG9ja2VkLAogIHNhbWUgcm9vdC1vbmx5IHBlcm1pc3Npb24gaXNzdWUgYXMgZXZlcnkgb3RoZXIgcmF3IHBhcnRpdGlvbi4KLSBNb25pdG9yaW5nIGZvciB0aGUgbmV4dCBPVEEgcmVsZWFzZSB0byB0aGlzIGRldmljZS4KCiMjIENyZWRpdAoKW29wZW5lbnNlbWJsZS9vbm4tNGstcHJvLXVubG9jay1yb290XShodHRwczovL2dpdGh1Yi5jb20vb3BlbmVuc2VtYmxlL29ubi00ay1wcm8tdW5sb2NrLXJvb3QpCmZvciB0aGUgb25seSByZWFsIHByaW9yIGFydCBpbiB0aGlzIHByb2R1Y3QgbGluZSwgYW5kIGZvciBkb2N1bWVudGluZyB0aGVpcgptZXRob2Qgd2VsbCBlbm91Z2ggdGhhdCBzb21lb25lIGVsc2UgY291bGQgdGVsbCB3aGVyZSBpdCBkb2VzIGFuZCBkb2Vzbid0CmFwcGx5Lg==
+# onn. 4K Pro (2026, jarvis2) — root research
+
+Status: **no root achieved.** This is a running log of what's been tried, what
+worked, and what didn't, on the new 2026 onn. 4K Pro streaming box — codename
+**jarvis2**, distinct from the earlier 2024 "jarvis/SNA" hardware that
+[openensemble/onn-4k-pro-unlock-root](https://github.com/openensemble/onn-4k-pro-unlock-root)
+already roots. That project's tooling explicitly excludes this device and
+nothing in it transfers directly — different firmware, almost certainly a
+different SoC generation, and (as far as we can tell) no public firmware dump
+exists for jarvis2 anywhere yet.
+
+If you're reading this because you have the same box: open an issue, or see
+if [the upstream issue we filed](https://github.com/openensemble/onn-4k-pro-unlock-root/issues/1)
+has moved. We'd rather consolidate than fork effort.
+
+## Device identification
+
+```
+Retail name:   onn. 4K Pro Streaming Device (2026)
+Codename:      jarvis2 (ro.product.device / .name / .board all agree)
+Fingerprint:   onn/jarvis2/jarvis2:14/URO3.260203.035.A1/15640252:user/release-keys
+Board platform: s7d  (not confirmed against a known public Amlogic part number)
+Security patch: 2026-06-01
+Active slot:   _a
+ABI:           armeabi-v7a
+ro.debuggable: 0  (production build; `adb root` refused)
+ro.boot.flash.locked:        1
+ro.boot.vbmeta.device_state: locked
+ro.boot.verifiedbootstate:   green
+sys.oem_unlock_allowed:      1  — Settings > Developer options > OEM unlocking
+                                   shows ENABLED, not greyed out, on this unit
+```
+
+Also seen in the wild for this product line: model numbers DS9620 / JS620K4.
+
+## Partition layout (A/B, dynamic partitions)
+
+Read via `adb shell ls -la /dev/block/by-name/` — no root needed to list, but
+every block device is `brw-------` (root-only to read):
+
+```
+boot_a/b, init_boot_a/b, dtbo_a/b, vendor_boot_a/b,
+vbmeta_a/b, vbmeta_system_a/b, bootloader_a/b, tee, super, userdata, ...
+```
+
+Notably this device has real, non-empty-looking `init_boot_a`/`init_boot_b`
+partitions separate from `boot_a`/`boot_b` — standard post-Android-13 GKI
+ramdisk split. The jarvis/SNA hardware openensemble documented found its
+`init_boot` partitions blank and roots `boot_b` instead, which is one
+concrete sign jarvis2 is a newer/different kernel packaging than jarvis/SNA,
+not just a renamed respin.
+
+## Vendor interface
+
+`com.droidlogic` and `com.android.networkstack.tethering.droidlogic` are
+both present — the same Amlogic vendor package family openensemble's
+HOW_IT_WORKS.md describes talking to for the AVB unlock on jarvis/SNA. This
+is circumstantial, not proof: it tells us the same *class* of mechanism
+likely exists here, not that any of their exact addresses, TEE trusted-app
+UUID, or payload bytes apply. Those were hand-calibrated against a jarvis/SNA
+firmware dump they had and we don't.
+
+## Attempts so far
+
+### 2026-10-23 — OTA capture attempt: dead end
+
+Goal: trigger a system update check, catch the request to see what URL/host
+the device talks to for its OTA payload, and (if the URL is a public,
+unauthenticated blob like Google's standard OTA distribution pattern) fetch
+it directly with curl from a computer — no device modification, no risk.
+
+Opened `android.settings.SYSTEM_UPDATE_SETTINGS` via adb, confirmed via
+`adb shell screencap`:
+
+> **"Your system is up to date." Last successful check for update at 2:43 AM.**
+
+No pending update means nothing to capture a URL for right now. This also
+means the currently-*installed* firmware (what we actually want) was never
+going to surface this way regardless — a "check for update" only ever reveals
+the *next* release, not the one already on the box. The box being this
+current is also a plausible reason nobody has a jarvis2 dump yet: there may
+not have been a second OTA push since launch for anyone to have caught.
+
+**Conclusion:** this path is blocked until Walmart/ONN ships a jarvis2 OTA
+update. When one lands, re-attempt this — ideally with a MITM setup (user CA
+cert installed via Settings, no root needed, plus a proxy on a LAN computer)
+so the actual payload.bin can be captured even over HTTPS, not just the
+destination host.
+
+## What hasn't been tried yet
+
+- Physical USB/fastboot test. Toggle shows OEM-unlock enabled, but whether
+  `fastboot flashing unlock` is even implemented on this bootloader (vs.
+  Amlogic's non-fastboot "burn mode"/storeboot USB-drive approach
+  openensemble actually used) is unverified. Untested because an unlock
+  attempt is potentially data-destructive and we wanted the firmware
+  situation understood first.
+- Reading `env`/`misc` partitions for U-Boot environment clues — blocked,
+  same root-only permission issue as every other raw partition.
+- Monitoring for the next OTA release to this device.
+
+## Credit
+
+[openensemble/onn-4k-pro-unlock-root](https://github.com/openensemble/onn-4k-pro-unlock-root)
+for the only real prior art in this product line, and for documenting their
+method well enough that someone else could tell where it does and doesn't
+apply.
